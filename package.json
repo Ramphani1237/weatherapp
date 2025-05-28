@@ -2,7 +2,7 @@
   "name": "weatherappp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ramphani1237.github.io/weatherappp",
+  "homepage": "https://Ramphani1237.github.io/weatherapp",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
